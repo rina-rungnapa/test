@@ -26,7 +26,7 @@ ui <- fluidPage(
   absolutePanel(
     id = "warning_panel",
     top = 300,
-    right = 420,
+    right = 500,
     draggable = TRUE,
     fixed = TRUE,
     style = "padding: 5px; border-radius: 5px; display: none;",
