@@ -49,4 +49,5 @@ po/*~
 rsconnect/
 
 # ignore list
-.Rproj
+*.Rproj
+/*.Rproj
